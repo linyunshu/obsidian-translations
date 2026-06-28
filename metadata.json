@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "ZjsH3p_AS4TX4JPpfTUwi5-8GQH3zYwZ",
+        "plugin": "homepage",
+        "language": "zh-cn",
+        "version": "4.3.1",
+        "supported_versions": "4.3.1",
+        "title": "Homepage",
+        "description": "Homepage Localization & Tweaks",
+        "hash": "231ff9d7231ff9d7231ff9d7231ff9d7",
+        "created_at": "2026-06-28T04:13:23.054Z",
+        "updated_at": "2026-06-28T04:13:23.054Z",
+        "type": "plugin"
+    }
+]
